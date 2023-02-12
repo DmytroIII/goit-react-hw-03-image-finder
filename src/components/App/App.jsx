@@ -1,3 +1,4 @@
+
 import { ImageGallery } from "components/ImageGallery/ImageGallery";
 import { Searchbar } from "components/Searchbar/Searchbar";
 import { Component } from "react";

@@ -1,5 +1,4 @@
 @import-normalize;
-/* bring in normalize.css styles */
 
 body {
   margin: 0;
@@ -19,7 +18,6 @@ code {
 html {
   box-sizing: border-box;
   width: 100vw;
-  /* overflow-x: hidden; */
 }
 
 *,
